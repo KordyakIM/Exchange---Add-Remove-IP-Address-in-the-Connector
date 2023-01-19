@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="5046f726-5f37-4599-ae87-8bf8b71894cf" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="ExchangeAddIpAdressToConnector.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="ExchangeAddIpAdressToConnector, Version=1.0.0.0, Culture=neutral, PublicKeyToken=18e91c879bf703ed" Namespace="ExchangeAddIpAdressToConnector.VisualWebPart1" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\ExchangeAddIpAdressToConnector\VisualWebPart1\VisualWebPart1UserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="ExchangeAddIpAdressToConnector_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="5046f726-5f37-4599-ae87-8bf8b71894cf" solutionId="5046f726-5f37-4599-ae87-8bf8b71894cf" resetWebServer="false" sharePointProductVersion="15.0" name="ExchangeAddIpAdressToConnector" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="df975a5d-ead0-4b5d-902c-b29e1bdaa2b9" />
+  </features>
+</package>

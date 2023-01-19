@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="ExchangeAddIpAdressToConnector.VisualWebPart1.VisualWebPart1, ExchangeAddIpAdressToConnector, Version=1.0.0.0, Culture=neutral, PublicKeyToken=18e91c879bf703ed" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">ExchangeAddIpAdressToConnector - VisualWebPart1</property>
+        <property name="Description" type="string">Моя визуальная веб-часть</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>
